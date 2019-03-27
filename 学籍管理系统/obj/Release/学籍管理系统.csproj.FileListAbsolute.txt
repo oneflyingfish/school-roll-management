@@ -1,0 +1,75 @@
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\学籍管理系统.exe.config
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\学籍管理系统.exe
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\学籍管理系统.pdb
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.dll
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.SqlServer.dll
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.dll
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.EF6.dll
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.Linq.dll
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.dll.config
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csprojResolveAssemblyReference.cache
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.AboutUs.resources
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.DeleteForm.resources
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.Grade.resources
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.MainForm.resources
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.HelpUsage.resources
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.Information.resources
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.Properties.Resources.resources
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csproj.GenerateResource.cache
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csproj.CoreCompileInputs.cache
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csproj.CopyComplete
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.exe
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.pdb
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.xml
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.SqlServer.xml
+E:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.xml
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\学籍管理系统.exe.config
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\学籍管理系统.exe
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\学籍管理系统.pdb
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.dll
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.SqlServer.dll
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.dll
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.EF6.dll
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.Linq.dll
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.xml
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.SqlServer.xml
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.xml
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.dll.config
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csprojAssemblyReference.cache
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.AboutUs.resources
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.DeleteForm.resources
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.Grade.resources
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.MainForm.resources
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.HelpUsage.resources
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.Information.resources
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.Properties.Resources.resources
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csproj.GenerateResource.cache
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csproj.CoreCompileInputs.cache
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csproj.CopyComplete
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.exe
+F:\freework\visual stdio build\C#\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.pdb
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\学籍管理系统.exe.config
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\学籍管理系统.exe
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\学籍管理系统.pdb
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.dll
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.SqlServer.dll
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.dll
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.EF6.dll
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.Linq.dll
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.xml
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\EntityFramework.SqlServer.xml
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.xml
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\bin\Release\System.Data.SQLite.dll.config
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csprojAssemblyReference.cache
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.AboutUs.resources
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.DeleteForm.resources
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.Grade.resources
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.MainForm.resources
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.HelpUsage.resources
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.Information.resources
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.Properties.Resources.resources
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csproj.GenerateResource.cache
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csproj.CoreCompileInputs.cache
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.csproj.CopyComplete
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.exe
+G:\freework\visual stdio build\C sharp\WinForm\学籍管理系统\学籍管理系统\obj\Release\学籍管理系统.pdb
